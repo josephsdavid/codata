@@ -1,2 +1,2 @@
 # Up to date covid data
-in json form!
+In json form!
